@@ -1,7 +1,5 @@
 package com.aston.java.lesson_04;
 
-import java.util.Arrays;
-
 public class __Main__ {
     public static void main(String[] args) {
         MyLinkedList myLinkedList = new MyLinkedList();
